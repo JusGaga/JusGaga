@@ -88,5 +88,6 @@ Salut, moi c'est Gaëtan 👋
 
 ---
 
+```
 > *"Créer, tester, recommencer — c’est là que commence la vraie magie du dev."* ✨
 ```
